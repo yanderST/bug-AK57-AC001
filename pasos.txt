@@ -1,0 +1,3 @@
+paso 1: consultar el kernel instalado
+paso 2: escribir lsb_release -a "
+Katherine, realiza el commit en la rama master, del repositorio "bug-AK57#AC001
