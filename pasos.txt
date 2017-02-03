@@ -1,3 +1,6 @@
 paso 1: consultar el kernel instalado
 paso 2: escribir lsb_release -a "
 Katherine, realiza el commit en la rama master, del repositorio "bug-AK57#AC001
+paso 3. escribir uname -a
+paso 4. bug name: <Nombre del estudiante>
+paso 5. correo: <correo del estudiante>
